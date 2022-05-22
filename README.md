@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Su Myeon 
-- 👀 I’m interested in Data Science mostly using python
+- 👀 I’m working as a Data Scientist using various tools based on python
 - 🌱 I’m currently working on mobile phone analytics
-- 💞️ I’m looking to collaborate on data science and ananlytics tools 
+- 💞️ I’m looking for collaboration on data science and ananlytics tools 
 - 📫 How to reach me : sumyeon@gmail.com
 
 <!---
